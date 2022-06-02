@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PsycoSGWaK
+- 👋 Hi, I’m @PsycoSGWaK or Guillaume (Real name)
 - I'm the creator of iDev
 - I’m dev PHP JS HTML CSS ANGULAR...
 
