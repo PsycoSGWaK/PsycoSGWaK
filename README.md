@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PsycoSGWaK or Guillaume (Real name)
+- 👋 Hi, I’m Guillaume "PsycoSGWaK" Hurard
 - I'm the creator of iDev ans youngdev
 - I’m dev PHP JS HTML CSS ANGULAR...
 
