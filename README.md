@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Guillaume "PsycoSGWaK" Hurard
-- I'm the creator of iDev ans youngdev
+- I'm the creator of iDev - Normandie
 - I’m dev PHP JS HTML CSS ANGULAR...
 
 I worked with some friends on projects, you can find some of them here
