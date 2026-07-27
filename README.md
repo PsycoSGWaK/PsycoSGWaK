@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Guillaume "PsycoSGWaK" Hurard
-- I'm the creator of iDev - Normandie
-- I’m dev PHP JS HTML CSS ANGULAR...
+- I am the founder of iDev - Normandie
 
-I worked with some friends on projects, you can find some of them here
+I’ve worked on projects with friends or on my own; you can find out about some of them here
 
 <!---
 PsycoSGWaK/PsycoSGWaK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
